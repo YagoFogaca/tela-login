@@ -72,6 +72,9 @@ input {
 
     outline: none;
 }
+input:focus {
+    border: 1px solid #4375ff;
+}
 
 div#lembrar-usuario {
     width: 100%;
@@ -103,6 +106,7 @@ button#entrar {
 }
 
 button#entrar:hover {
+    background-color: #2254de;
     transform: scale(1.05);
 }
 
