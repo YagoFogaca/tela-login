@@ -60,4 +60,3 @@ btnEntrar.addEventListener("click", function (event) {
     }
 });
 
-// Fazer a validação quando o usuario tentar mandar sem nada escrito
